@@ -1,3 +1,9 @@
+/*
+* Universidad Tecnologica del Norte de Guanajuato
+* Autor: Cortez Ramirez Jose Kevyn
+* Fecha: 28 de septiembre del 2022
+* Funcion de Script: El script es para que el carro se mueva y el usuario lo pueda controlar
+*/
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
